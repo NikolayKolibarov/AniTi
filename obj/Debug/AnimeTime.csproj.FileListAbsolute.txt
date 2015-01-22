@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\AnimeTime\AnimeTime\bin\Debug\AnimeTime.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\AnimeTime\AnimeTime\obj\Debug\AnimeTime.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\AnimeTime\AnimeTime\bin\Debug\AnimeTime.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\AnimeTime\AnimeTime\bin\Debug\AnimeTime.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\AnimeTime\AnimeTime\obj\Debug\AnimeTime.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\AnimeTime\AnimeTime\obj\Debug\AnimeTime.pdb
+C:\Users\Nikolay\Dropbox\Visual Studio 2013\Projects\AnimeTime\AnimeTime\bin\Debug\AnimeTime.exe.config
+C:\Users\Nikolay\Dropbox\Visual Studio 2013\Projects\AnimeTime\AnimeTime\obj\Debug\AnimeTime.exe
+C:\Users\Nikolay\Dropbox\Visual Studio 2013\Projects\AnimeTime\AnimeTime\obj\Debug\AnimeTime.pdb
